@@ -8,8 +8,8 @@
 
 ## 📋 Sobre Mim
 Iniciante na área de programação, atualmente mergulhando no mundo do **Python** para construir uma base sólida em  lógica de programação.
-- 🚀 **Roadmap de Estudos**
-- Meus próximos passos incluem aprender:
+## 🚀 **Roadmap de Estudos**
+Meus próximos passos incluem aprender:
 - **JavaScript**
 - **TypeScript** 
 - **Node.js** 
