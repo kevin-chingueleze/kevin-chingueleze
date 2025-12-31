@@ -1,4 +1,4 @@
-<div align="center">
+<div align="justify" >
 
 # 👋 Olá, eu sou Kevin Chingueleze!
 
@@ -31,17 +31,17 @@ Iniciante na área de programação, atualmente mergulhando no mundo do **Python
 
 
 ## 📊 Estatísticas do meu GitHub
-<div align="center">
+<div >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevin-chingueleze&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-chingueleze&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ## 🤝 Vamos Conectar!
 - 📧 Email: kevinchingueleze7@gmail.com 
-- 💼 LinkedIn: [seu-linkedin](https://linkedin.com/in/kevin)
+- 💼 LinkedIn:
 - 🌐 Portfólio: em breve!
 
-<div align="center">
+<div ">
   <img src="https://komarev.com/ghpvc/?username=kevin-chingueleze&style=flat-square&color=blue" alt="github profile views counter" />
 </div>
 
