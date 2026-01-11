@@ -1,26 +1,49 @@
-# 👋 Hey there, i am Kevin Chingueleze!
+# 👋 Olá, eu sou Kevin
 
-# 💫 About Me:
-🔭 Atualmente estou trabalhando com Python e Git para construir uma base sólida em lógica de programação.  <br><br>👯 Procuro colaborar em projetos simples, open-source e iniciativas para iniciantes.  <br><br>🤝 Estou buscando ajuda para evoluir na lógica de programação, organização de código e boas práticas.  <br><br>🌱 Atualmente estou aprendendo Python e, em breve, pretendo estudar JavaScript, TypeScript e Node.js.  <br><br>💬 Pergunte-me sobre minha jornada como iniciante, Python básico ou estudos em programação.  <br><br>⚡ Curiosidade: aprendo melhor criando projetos práticos e evoluindo um pouco todos os dias.<br>
+🎯 **Iniciante em Python**  
+📊 **Entusiasta em Análise de Dados**
+
+---
+
+## 🚀 Sobre mim
+Sou iniciante em Python e estou em processo de aprendizado contínuo, com foco em **análise de dados**.  
+Tenho interesse em transformar dados em informações úteis para **tomada de decisão**, utilizando ferramentas como Python, planilhas e visualização de dados.
+
+Este repositório é parte da minha jornada de estudos, onde compartilho **exercícios, projetos e experimentos** conforme evoluo.
+
+---
+
+## 🧠 O que estou aprendendo
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Numpy](https://img.shields.io/badge/numpy-3670A0?style=for-the-badge&logo=numpy&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-3670A0?style=for-the-badge&logo=pandas&logoColor=ffdd54)
+
+---
+
+## Proximos passos
+![Power BI](https://img.shields.io/badge/powerbi-3670A0?style=for-the-badge&logo=powerbi&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-3670A0?style=for-the-badge&logo=sql&logoColor=ffdd54)
+![Excel](https://img.shields.io/badge/excel-3670A0?style=for-the-badge&logo=excel&logoColor=ffdd54)
+
+
+## 🌱 Em evolução
+Este perfil está em constante atualização conforme avanço nos estudos.  
+Feedbacks e sugestões são sempre bem-vindos!
+
+---
 
 ## 🤝 Vamos Conectar!
 - 📧 Email: kevinchingueleze7@gmail.com 
 - 💼 LinkedIn:
 - 🌐 Portfólio: em breve!
 
-# 💻 Tech Stack
-## No que estou trabalhando agora:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-
-#### Em breve (Meus próximos objetivos):
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kevin-chingueleze&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kevin-chingueleze&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-chingueleze&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kevin-chingueleze&icon=0&color=0)](https://visitcount.itsvg.in)
+⭐ *Aprender todos os dias é o objetivo.*
 
----
 *Feito com ❤️ por Kevin. Atualizando diariamente! 🚀*
+
